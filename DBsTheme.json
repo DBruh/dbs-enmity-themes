@@ -58,7 +58,7 @@
       "#e3e5e8"
     ],
     "BACKGROUND_ACCENT": [
-      "#434461",
+      "#10101A",
       "#747f8d"
     ],
     "BACKGROUND_FLOATING": [
@@ -118,7 +118,7 @@
       "#ebedef"
     ],
     "CHANNELS_DEFAULT": [
-      "10101A",
+      "#b6b6b6",
       "#475d77"
     ],
     "TEXT_LINK": [
