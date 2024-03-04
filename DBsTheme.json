@@ -1,80 +1,80 @@
 {
-  "name": "Serene_Horizon",
-  "description": "An epic scenery",
+  "name": "DBTheme",
+  "description": "Pretty funny, man!",
   "version": "1.1",
   "authors": [
     {
-      "name": "Madhav",
-      "id": "757530324686340197"
+      "name": "DBruh",
+      "id": "757530324682749291"
     }
   ],
   "theme_color_map": {
     "HEADER_PRIMARY": [
-      "#f1f1f1",
-      "#060607"
+      "#b1bae6",
+      "#23232d"
     ],
     "HEADER_SECONDARY": [
-      "#c8c8c8",
-      "#4f5660"
+      "#55576b",
+      "#3d4858"
     ],
     "TEXT_NORMAL": [
-      "#FBFBFB",
+      "#b1bae6",
       "#2e3338"
     ],
     "TEXT_MUTED": [
-      "#b1b1b1",
+      "#55576b",
       "#747f8d"
     ],
     "INTERACTIVE_NORMAL": [
-      "#8961ba",
-      "#4f5660"
+      "#5f647e",
+      "#3d4858"
     ],
     "INTERACTIVE_HOVER": [
-      "#dcddde",
+      "#a2a6c2",
       "#2e3338"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#dc74e3",
-      "#060607"
+      "#b5bad1",
+      "#1e1e38"
     ],
     "INTERACTIVE_MUTED": [
-      "#bfb9ff",
+      "#55576b",
       "#c7ccd1"
     ],
     "BACKGROUND_PRIMARY": [
-      "#120212",
+      "#1a1b26",
       "#ffffff"
     ],
     "BACKGROUND_SECONDARY": [
-      "#120212",
+      "#171722",
       "#f2f3f5"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#120212",
+      "#13131a",
       "#ebedef"
     ],
     "BACKGROUND_TERTIARY": [
-      "#120212",
+      "#161620",
       "#e3e5e8"
     ],
     "BACKGROUND_ACCENT": [
-      "#120212",
+      "#434461",
       "#747f8d"
     ],
     "BACKGROUND_FLOATING": [
-      "#120212",
+      "#161620",
       "#FFFFFF"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-      "#120212",
+      "#211f2a",
       "#f8f9f9"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#120212",
+      "#171722",
       "#ffffff"
     ],
     "BACKGROUND_NESTED_FLOATING": [
-      "#120212",
+      "#1a1b26",
       "#ffffff"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
@@ -82,19 +82,19 @@
       "#FFFFFF"
     ],
     "BACKGROUND_MODIFIER_HOVER": [
-      "rgba(255, 255, 255, 0.02)",
+      "#212331c0",
       "hsla(214, 9.9%, 50.4%, 0.08)"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
-      "rgba(255, 255, 255, 0.03)",
+      "#282a3680",
       "hsla(214, 9.9%, 50.4%, 0.16)"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
-      "rgba(255, 255, 255, 0.04)",
+      "#24263171",
       "hsla(214, 9.9%, 50.4%, 0.24)"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
-      "transparent",
+      "#1e1e29",
       "hsla(240, 7.7%, 2.5%, 0.08)"
     ],
     "SCROLLBAR_THIN_THUMB": [
@@ -114,19 +114,19 @@
       "#f2f2f2"
     ],
     "CHANNELTEXTAREA_BACKGROUND": [
-      "#111111",
+      "#171722",
       "#ebedef"
     ],
     "CHANNELS_DEFAULT": [
-      "#c8c8c8",
-      "#6a7480"
+      "#b6b6b6",
+      "#475d77"
     ],
     "TEXT_LINK": [
-      "#dc74e3",
+      "#4f5684",
       "#000000"
     ],
     "KEYBOARD": [
-      "#111011",
+      "#4f5684",
       "#FFFFFF"
     ]
   },
@@ -134,24 +134,25 @@
     "PRIMARY_DARK": "#747474",
     "PRIMARY_DARK_100": "#FFFFFF",
     "PRIMARY_DARK_200": "#FFFFFF",
-    "PRIMARY_DARK_300": "#B6B6B6",
-    "PRIMARY_DARK_360": "#C8C8C8",
-    "PRIMARY_DARK_400": "#d894eb",
-    "PRIMARY_DARK_500": "#dc74e3",
-    "PRIMARY_DARK_600": "#120212",
-    "PRIMARY_DARK_630": "#18161a",
-    "PRIMARY_DARK_700": "#101010",
-    "PRIMARY_DARK_800": "#120212",
-    "BRAND_NEW": "#dc74e3",
-    "STATUS_RED": "#dc74e3",
-    "STATUS_GREEN_600": "#dc74e3"
+    "PRIMARY_DARK_300": "#171722",
+    "PRIMARY_DARK_360": "#fcfdfc",
+    "PRIMARY_DARK_400": "#bebee3",
+    "PRIMARY_DARK_500": "#171722",
+    "PRIMARY_DARK_600": "#171722",
+    "PRIMARY_DARK_630": "#171722",
+    "PRIMARY_DARK_700": "#353048",
+    "PRIMARY_DARK_800": "#1a1b26",
+    "BRAND_NEW": "#848bb3",
+    "STATUS_RED": "#c18ea4",
+    "STATUS_GREEN_600": "#87a2de",
+    "STATUS_YELLOW": "#c18ea4"
   },
   "unsafe_colors": {
-    "CHAT_GREY": "#120212"
+    "CHAT_GREY": "#171722"
   },
   "background": {
     "blur": 0.1,
-    "url": "https://media.discordapp.net/attachments/739624355201548412/1209701961046429696/IMG_4542.jpg?ex=65f11c3e&is=65dea73e&hm=338cc254dfdcaf3548b127dbf2e278d08edd68266259a90542b8d040ce46c53b&=&format=webp&width=469&height=676",
+    "url": "https://media.discordapp.net/attachments/739624355201548412/1205715031879323728/Train.png?ex=65f51020&is=65e29b20&hm=0a0d0d98bc2acfd05324b5ea288786152867c72377b51b4f29dae61e89e544f0&=&format=webp&quality=lossless&width=380&height=676",
     "alpha": 0.4
   }
 }
